@@ -99,7 +99,7 @@ Java-Todo-Manager-Pro
 
 ### Statistics Dashboard
 
-![Statistics](screenshots\satistics_dashboard.png)
+![Statistics](screenshots/satistics_dashboard.png)
 
 ---
 
