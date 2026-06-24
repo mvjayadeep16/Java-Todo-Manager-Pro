@@ -1,0 +1,4 @@
+High | java | Pending
+High | dsa | Pending
+Medium | insta | Completed
+Low | tables | Completed
