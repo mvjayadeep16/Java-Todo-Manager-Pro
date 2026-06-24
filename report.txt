@@ -1,4 +1,4 @@
-High | java | Pending
-High | dsa | Pending
-Medium | insta | Completed
-Low | tables | Completed
+High | STUDY JAVA | Completed
+Medium | COMPLEATE DSA | Pending
+Medium | READ TEXT BOOK | Completed
+Low | PUSH CODE TO GITHUB | Completed
