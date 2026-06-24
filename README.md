@@ -62,7 +62,7 @@ report.txt
 | JTable | Task Management Table |
 | File Handling | Data Persistence |
 | VS Code | Development Environment |
-| Git & GitHub | Version Control |
+| Git & GitHub | Version  Control |
 
 ---
 
@@ -99,7 +99,7 @@ Java-Todo-Manager-Pro
 
 ### Statistics Dashboard
 
-![Statistics](screenshots/statistics.png)
+![Statistics](screenshots\satistics_dashboard.png)
 
 ---
 
