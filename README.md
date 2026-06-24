@@ -95,7 +95,7 @@ Java-Todo-Manager-Pro
 
 ### Completed Tasks
 
-![Completed](screenshots/completed_task.png)
+![Completed](screenshots/compleated_task.png)
 
 ### Statistics Dashboard
 
